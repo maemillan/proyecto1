@@ -1,6 +1,6 @@
 README.md: guessinggame.sh
-	echo "##Project Title :" >README.md
-	echo "#Guessing Game" >> README.md
+	echo "## Project Title :" >README.md
+	echo "# Guessing Game" >> README.md
 	echo "" >>README.md
 	echo "**Execution Date:** " >> README.md
 	date +%D >> README.md
